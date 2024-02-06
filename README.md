@@ -1,2 +1,3 @@
 # toy_ds_project
-Project Creation Date -> February 5 2024
+Project Creation Date -> February 5 2024\
+Author -> Julia Ternier
